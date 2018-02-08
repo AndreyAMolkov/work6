@@ -1,0 +1,9 @@
+﻿  main4.c
+c:\git\work6\4\main4.c(19): warning C4244: =: преобразование "double" в "ll", возможна потеря данных
+c:\git\work6\4\main4.c(20): warning C4244: функция: преобразование "ll" в "std::size_t", возможна потеря данных
+c:\git\work6\4\main4.c(25): warning C4244: =: преобразование "double" в "ll", возможна потеря данных
+c:\git\work6\4\main4.c(26): warning C4244: функция: преобразование "ll" в "std::size_t", возможна потеря данных
+c:\git\work6\4\main4.c(35): warning C4244: функция: преобразование "ll" в "int", возможна потеря данных
+c:\git\work6\4\main4.c(41): warning C4244: функция: преобразование "ll" в "int", возможна потеря данных
+  4.vcxproj -> C:\git\work6\Debug\4.exe
+  4.vcxproj -> C:\git\work6\Debug\4.pdb (Full PDB)

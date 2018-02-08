@@ -1,0 +1,8 @@
+﻿  task8.c
+c:\git\work6\8\task8.c(13): warning C4013: isnumb: нет определения; предполагается "extern" с возвратом типа "int"
+c:\git\work6\8\task8.c(13): warning C4554: |: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\git\work6\8\task8.c(62): warning C4013: atoi: нет определения; предполагается "extern" с возвратом типа "int"
+c:\git\work6\8\task8.c(130): warning C4047: return: "int" отличается по уровням косвенного обращения от "char *"
+c:\git\work6\8\task8.c(150): warning C4715: eval: значение возвращается не при всех путях выполнения
+  8.vcxproj -> C:\git\work6\Debug\8.exe
+  8.vcxproj -> C:\git\work6\Debug\8.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  task1.c
+  main1.c
+c:\git\work6\1\main1.c(9): warning C4013: memset: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода...
+  1.vcxproj -> C:\git\work6\Debug\1.exe
+  1.vcxproj -> C:\git\work6\Debug\1.pdb (Full PDB)

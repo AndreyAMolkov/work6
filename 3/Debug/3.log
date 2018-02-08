@@ -1,0 +1,6 @@
+﻿  task3.c
+  main3.c
+c:\git\work6\3\main3.c(12): warning C4013: int2str: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода...
+  3.vcxproj -> C:\git\work6\Debug\3.exe
+  3.vcxproj -> C:\git\work6\Debug\3.pdb (Full PDB)

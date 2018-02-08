@@ -1,0 +1,16 @@
+﻿  task6.c
+  main6.c
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(35): warning C4820: _timespec64: "4"-байтовые поля добавлены после данные-член "tv_nsec"
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(42): warning C4820: timespec: "4"-байтовые поля добавлены после данные-член "tv_nsec"
+c:\git\work6\6\main6.c(9): warning C4255: main: прототип функции не задан: преобразование "()" в "(void)"
+c:\git\work6\6\main6.c(13): warning C4101: start: неиспользованная локальная переменная
+c:\git\work6\6\main6.c(10): warning C4189: j: локальная переменная инициализирована, но не использована
+c:\git\work6\6\main6.c(46): warning C4710: int fprintf(FILE *const ,const char *const ,...): функция не является встроенной
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(824): note:  см. объявление "fprintf"
+c:\git\work6\6\main6.c(46): warning C4710: int printf(const char *const ,...): функция не является встроенной
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(944): note:  см. объявление "printf"
+c:\git\work6\6\main6.c(46): warning C4710: int scanf(const char *const ,...): функция не является встроенной
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note:  см. объявление "scanf"
+  Создание кода...
+  6.vcxproj -> C:\git\work6\Debug\6.exe
+  6.vcxproj -> C:\git\work6\Debug\6.pdb (Full PDB)

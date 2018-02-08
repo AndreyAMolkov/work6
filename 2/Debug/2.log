@@ -1,0 +1,6 @@
+﻿  task2.c
+  main2.c
+  Создание кода...
+c:\git\work6\2\task2.c(37): warning C4715: collatz: значение возвращается не при всех путях выполнения
+  2.vcxproj -> C:\git\work6\Debug\2.exe
+  2.vcxproj -> C:\git\work6\Debug\2.pdb (Full PDB)

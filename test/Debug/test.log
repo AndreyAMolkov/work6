@@ -1,0 +1,4 @@
+﻿  mainTest.c
+c:\git\work6\test\maintest.c(18): warning C4013: atoi: нет определения; предполагается "extern" с возвратом типа "int"
+  test.vcxproj -> C:\git\work6\Debug\test.exe
+  test.vcxproj -> C:\git\work6\Debug\test.pdb (Full PDB)
